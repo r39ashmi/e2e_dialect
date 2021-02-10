@@ -2,6 +2,9 @@
 End to end dialect classification
 
 main_cnn.py -- End-to-end CNN architecture 
+
 main_tdnn.py -- End-to-end CNN architecture
+
 main_tcnn.py -- End-to-end CNN architecture
+
 cnn_spectral_layer.py --  End-to-end CNN architecture with spectral filter embedded as convolution layer
