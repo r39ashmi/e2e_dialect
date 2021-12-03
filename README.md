@@ -1,7 +1,9 @@
 
 # Deep neural architectures for dialect classification with single frequency filtering and zero−time windowing feature representations
 
-## Pre-requisites:
+### Pre-requisites:
+Matlab & Python==3.8
+pip install -r requirements.txt
 
 ### Corpus: UT-Podcast
 UT-Podcast is a speech corpus collected from podcasts, it has three dialects of English (US, UK, AU). Please download it from [here](https://crss.utdallas.edu/corpora/UT-Podcast/). For more details [refer](https://dl.acm.org/doi/abs/10.1016/j.specom.2015.12.004)
