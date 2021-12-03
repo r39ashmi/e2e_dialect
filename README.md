@@ -2,7 +2,7 @@
 # Deep neural architectures for dialect classification with single frequency filtering and zero−time windowing feature representations
 
 ### Pre-requisites:
-Matlab & Python==3.8
+Install Matlab for feature extraction and Python==3.8 for classification <\br>
 pip install -r requirements.txt
 
 ### Corpus: UT-Podcast
