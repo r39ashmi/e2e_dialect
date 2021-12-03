@@ -2,7 +2,7 @@
 # Deep neural architectures for dialect classification with single frequency filtering and zero−time windowing feature representations
 
 ### Pre-requisites:
-Install Matlab for feature extraction and Python==3.8 for classification <\br>
+Install Matlab for feature extraction and Python==3.8 for classification </br>
 pip install -r requirements.txt
 
 ### Corpus: UT-Podcast
@@ -14,10 +14,10 @@ For extraction of features (STFT, SFF, and ZTW based features), MATLAB is used. 
 
 ### Neural Network Architectures for Dialect Classification
 This project implements three neural architectures:
-1. The code for **Convolution Neural Network** architecture can be found in 
-2. The code for **Convolution Neural Network with embedded spectra filter as convolution layer** architecture can be found in 
-3. The code for **Temporal Convolution Neural Network** architecture can be found in
-4. The code for **Time delay Neural Network** architecture can be found in
+1. The code for **Convolution Neural Network** architecture can be found in main_cnn.py
+2. The code for **Convolution Neural Network with embedded spectra filter as convolution layer** architecture can be found in cnn_spectral_layer.py
+3. The code for **Temporal Convolution Neural Network** architecture can be found in main_tcnn.py
+4. The code for **Time delay Neural Network** architecture can be found in main_tdnn.py
 
 **NOTE**: Please find the pre-trained models at:
 https://drive.google.com/drive/folders/1O4ZK1c8I5Vkglyka2fniUTpolyokTAsL?usp=sharing
