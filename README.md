@@ -12,7 +12,7 @@ cnn_spectral_layer.py --  End-to-end CNN architecture with spectral filter embed
 Please find the pre-trained models at:
 https://drive.google.com/drive/folders/1O4ZK1c8I5Vkglyka2fniUTpolyokTAsL?usp=sharing
 
-
+<div>
 Citation
 @article{dialect_class,
   title={Deep neural architectures for dialect classification with single frequency filtering and
@@ -24,3 +24,4 @@ zero−time windowing feature representations},
     Suryakanth V. Gangashetty},
   journal={Under Review}  
   }
+</div>
