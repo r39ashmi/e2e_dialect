@@ -3,7 +3,7 @@
 
 ### Pre-requisites:
 Install Matlab for feature extraction and Python==3.8 for classification </br>
-pip install -r requirements.txt
+Install required packages using: pip install -r requirements.txt
 
 ### Corpus: UT-Podcast
 UT-Podcast is a speech corpus collected from podcasts, it has three dialects of English (US, UK, AU). Please download it from [here](https://crss.utdallas.edu/corpora/UT-Podcast/). For more details [refer](https://dl.acm.org/doi/abs/10.1016/j.specom.2015.12.004)
