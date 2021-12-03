@@ -13,7 +13,7 @@ Please find the pre-trained models at:
 https://drive.google.com/drive/folders/1O4ZK1c8I5Vkglyka2fniUTpolyokTAsL?usp=sharing
 
 <div>
-Citation
+*Citation* \n
 @article{dialect_class,
   title={Deep neural architectures for dialect classification with single frequency filtering and
 zero−time windowing feature representations},
