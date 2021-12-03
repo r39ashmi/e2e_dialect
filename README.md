@@ -15,14 +15,9 @@ https://drive.google.com/drive/folders/1O4ZK1c8I5Vkglyka2fniUTpolyokTAsL?usp=sha
 
 ### Citation
 
-@article{dialect_class,
-
-    title={Deep neural architectures for dialect classification with single frequency filtering and 
-  
-    zero−time windowing feature representations}, 
-    
-    author={Rashmi Kethireddy and Sudarsana Reddy Kadiri and  Suryakanth V. Gangashetty}, 
-    
-    journal={Under Review} 
+@article{ dialect_class, </br>
+title={Deep neural architectures for dialect classification with single frequency filtering and  zero−time windowing feature representations}, </br>
+    author={Rashmi Kethireddy and Sudarsana Reddy Kadiri and  Suryakanth V. Gangashetty}, </br>
+    journal={Under Review} </br>
   }  
 
