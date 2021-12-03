@@ -22,6 +22,10 @@ This project implements three neural architectures:
 **NOTE**: Please find the pre-trained models at:
 https://drive.google.com/drive/folders/1O4ZK1c8I5Vkglyka2fniUTpolyokTAsL?usp=sharing
 
+### Classification metric
+Unweighted Average Recall (UAR) is used as classification metric. Evaluation results will be updated soon.
+
+
 ### Citation
 
 @article{ dialect_class, </br>
