@@ -12,8 +12,8 @@ cnn_spectral_layer.py --  End-to-end CNN architecture with spectral filter embed
 Please find the pre-trained models at:
 https://drive.google.com/drive/folders/1O4ZK1c8I5Vkglyka2fniUTpolyokTAsL?usp=sharing
 
-<div>
-##Citation## <br\>
+
+<meta name="Citation" content="nopin" description="Sorry, you can't save from my website!">
 @article{dialect_class,<br\>
   title={Deep neural architectures for dialect classification with single frequency filtering and <br\>
 zero−time windowing feature representations}, <br\>
@@ -22,4 +22,4 @@ zero−time windowing feature representations}, <br\>
     Suryakanth V. Gangashetty}, <br\>
   journal={Under Review}  <br\>
   }  <br\>
-</div> 
+
