@@ -8,6 +8,9 @@ Install required packages using: pip install -r requirements.txt
 ### Corpus: UT-Podcast
 UT-Podcast is a speech corpus collected from podcasts, it has three dialects of English (US, UK, AU). Please download it from [here](https://crss.utdallas.edu/corpora/UT-Podcast/). For more details [refer](https://dl.acm.org/doi/abs/10.1016/j.specom.2015.12.004)
 
+### Corpus: VoxCeleb
+The train, validation, and test split of VoxCeleb corpus is provided in voxceleb_corpus folder. VoxCeleb1 corpus can be dowloaded from [here](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox1.html)
+
 
 ### Feature Extraction
 For extraction of features (STFT, SFF, and ZTW based features), MATLAB is used. Code for feature extraction will soon be updated at feature_extraction/
