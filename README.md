@@ -12,6 +12,9 @@ UT-Podcast is a speech corpus collected from podcasts, it has three dialects of 
 ### Feature Extraction
 For extraction of features (STFT, SFF, and ZTW based features), MATLAB is used. Code for feature extraction will soon be updated at feature_extraction/
 
+**NOTE**:
+Extracted features are available [here](https://drive.google.com/drive/folders/1gSRNoXuqn0IaowJyE5eWkY0Di3By-QWz).
+
 ### Neural Network Architectures for Dialect Classification
 This project implements three neural architectures:
 1. The code for **Convolution Neural Network** architecture can be found in main_cnn.py
