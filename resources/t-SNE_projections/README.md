@@ -34,6 +34,8 @@
 ### SPEC-ZTW
 |CNN      | TCN      | TDNN      | ECAPA-TDNN      |
 |------------|-------------|-------------|-------------|
+| <img src="https://github.com/r39ashmi/e2e_dialect/blob/main/resources/t-SNE_projections/SPEC-SFF/Fig1.png?raw=true" width="250"> | <img src="https://github.com/r39ashmi/e2e_dialect/blob/main/resources/t-SNE_projections/SPEC-SFF/Fig2.png?raw=true" width="250"> | <img src="https://github.com/r39ashmi/e2e_dialect/blob/main/resources/t-SNE_projections/SPEC-SFF/Fig3.png?raw=true" width="250"> | <img src="https://github.com/r39ashmi/e2e_dialect/blob/main/resources/t-SNE_projections/SPEC-SFF/Fig4.png?raw=true" width="250"> |
+
 
 ### ZTWCC
 |CNN      | TCN      | TDNN      | ECAPA-TDNN      |
