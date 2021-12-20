@@ -29,6 +29,7 @@
 ### MFCC-SFF
 |CNN      | TCN      | TDNN      | ECAPA-TDNN      |
 |------------|-------------|-------------|-------------|
+| <img src="https://github.com/r39ashmi/e2e_dialect/blob/main/resources/t-SNE_projections/MFCC-SFF/Fig1.png?raw=true" width="250"> | <img src="https://github.com/r39ashmi/e2e_dialect/blob/main/resources/t-SNE_projections/MFCC-SFF/Fig2.png?raw=true" width="250"> | <img src="https://github.com/r39ashmi/e2e_dialect/blob/main/resources/t-SNE_projections/MFCC-SFF/Fig3.png?raw=true" width="250"> | <img src="https://github.com/r39ashmi/e2e_dialect/blob/main/resources/t-SNE_projections/MFCC-SFF/Fig4.png?raw=true" width="250"> |
 
 ### SPEC-ZTW
 |CNN      | TCN      | TDNN      | ECAPA-TDNN      |
