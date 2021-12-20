@@ -22,6 +22,9 @@
 ### MFBE-SFF
 |CNN      | TCN      | TDNN      | ECAPA-TDNN      |
 |------------|-------------|-------------|-------------|
+| <img src="https://github.com/r39ashmi/e2e_dialect/blob/main/resources/t-SNE_projections/MFBE-SFF/Fig1.png?raw=true" width="250"> | <img src="https://github.com/r39ashmi/e2e_dialect/blob/main/resources/t-SNE_projections/MFBE-SFF/Fig2.png?raw=true" width="250"> | <img src="https://github.com/r39ashmi/e2e_dialect/blob/main/resources/t-SNE_projections/MFBE-SFF/Fig3.png?raw=true" width="250"> | <img src="https://github.com/r39ashmi/e2e_dialect/blob/main/resources/t-SNE_projections/MFBE-SFF/Fig4.png?raw=true" width="250"> |
+
+
 
 ### MFCC-SFF
 |CNN      | TCN      | TDNN      | ECAPA-TDNN      |
