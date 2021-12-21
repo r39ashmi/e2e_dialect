@@ -1,13 +1,17 @@
 ### SPEC-STFT
 |CNN      | TCN      | TDNN      | ECAPA-TDNN      |
 |------------|-------------|-------------|-------------|
+| <img src="https://github.com/r39ashmi/e2e_dialect/blob/main/resources/t-SNE_projections/SPEC-STFT/Fig1.png?raw=true" width="250"> | <img src="https://github.com/r39ashmi/e2e_dialect/blob/main/resources/t-SNE_projections/SPEC-STFT/Fig2.png?raw=true" width="250"> | <img src="https://github.com/r39ashmi/e2e_dialect/blob/main/resources/t-SNE_projections/SPEC-STFT/Fig3.png?raw=true" width="250"> | <img src="https://github.com/r39ashmi/e2e_dialect/blob/main/resources/t-SNE_projections/SPEC-STFT/Fig4.png?raw=true" width="250"> |
 
 ### MFBE-STFT
 |CNN      | TCN      | TDNN      | ECAPA-TDNN      |
 |------------|-------------|-------------|-------------|
+| <img src="https://github.com/r39ashmi/e2e_dialect/blob/main/resources/t-SNE_projections/MFBE-STFT/Fig1.png?raw=true" width="250"> | <img src="https://github.com/r39ashmi/e2e_dialect/blob/main/resources/t-SNE_projections/MFBE-STFT/Fig2.png?raw=true" width="250"> | <img src="https://github.com/r39ashmi/e2e_dialect/blob/main/resources/t-SNE_projections/MFBE-STFT/Fig3.png?raw=true" width="250"> | <img src="https://github.com/r39ashmi/e2e_dialect/blob/main/resources/t-SNE_projections/MFBE-STFT/Fig4.png?raw=true" width="250"> |
+
 ### MFCC-STFT
 |CNN      | TCN      | TDNN      | ECAPA-TDNN      |
 |------------|-------------|-------------|-------------|
+| <img src="https://github.com/r39ashmi/e2e_dialect/blob/main/resources/t-SNE_projections/MFCC-STFT/Fig1.png?raw=true" width="250"> | <img src="https://github.com/r39ashmi/e2e_dialect/blob/main/resources/t-SNE_projections/MFCC-STFT/Fig2.png?raw=true" width="250"> | <img src="https://github.com/r39ashmi/e2e_dialect/blob/main/resources/t-SNE_projections/MFCC-STFT/Fig3.png?raw=true" width="250"> | <img src="https://github.com/r39ashmi/e2e_dialect/blob/main/resources/t-SNE_projections/MFCC-STFT/Fig4.png?raw=true" width="250"> |
 
 ### SPEC-SFF
 |CNN      | TCN      | TDNN      | ECAPA-TDNN      |
