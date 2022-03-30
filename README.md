@@ -31,9 +31,13 @@ Unweighted Average Recall (UAR) is used as classification metric. Evaluation res
 
 ### Citation
 
-@article{ dialect_class, </br>
-title={Deep neural architectures for dialect classification with single frequency filtering and  zero−time windowing feature representations}, </br>
-    author={Rashmi Kethireddy and Sudarsana Reddy Kadiri and  Suryakanth V. Gangashetty}, </br>
-    journal={Under Review} </br>
-  }  
+@article{dialect_class,  </br>
+title = {Deep neural architectures for dialect classification with single frequency filtering and zero-time windowing feature representations},  </br>
+author={Kethireddy, Rashmi and Kadiri, Sudarsana Reddy and Gangashetty, Suryakanth V},  </br>
+journal = JASA,  </br>
+volume = {151},  </br>
+number = {2},  </br>
+pages = {1077-1092},  </br>
+year = {2022} </br>
+}
 
